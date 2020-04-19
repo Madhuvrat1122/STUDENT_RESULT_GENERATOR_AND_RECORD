@@ -1,0 +1,22 @@
+			**CIA-1 result**
+			----------------
+
+NAME:-PRIYA GUPTA
+
+YEAR:-3-YEAR					SEM:-6-SEM
+
+COLLEGE:-S.S.JAIN SUBODH PG COLLEGE		ID:-64
+
+
+SUBJECT						TOTAL		OBTAINED MARKS
+-------------------------------------------------------------------------------
+MANGEMENT INFORMATION SYSTEM			30		18
+NETWORK SECURITY AND CRYPTOLOGY			30		17
+DATA WAREHOUSING AND DATA MINING		30		19
+ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEMS	30		13
+5.ANIMATION AND MULTIMEDIA			30		21
+-------------------------------------------------------------------------------
+TOTAL						120		88
+-------------------------------------------------------------------------------
+PERCENTAGE							58.6667
+------------------------------------------------------------------------------

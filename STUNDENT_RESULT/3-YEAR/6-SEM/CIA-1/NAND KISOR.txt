@@ -1,0 +1,22 @@
+			**CIA-1 result**
+			----------------
+
+NAME:-NAND KISOR
+
+YEAR:-3-YEAR					SEM:-6-SEM
+
+COLLEGE:-S.S.JAIN SUBODH PG COLLEGE		ID:-7
+
+
+SUBJECT						TOTAL		OBTAINED MARKS
+-------------------------------------------------------------------------------
+MANGEMENT INFORMATION SYSTEM			30		25
+NETWORK SECURITY AND CRYPTOLOGY			30		21
+DATA WAREHOUSING AND DATA MINING		30		222
+ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEMS	30		1
+ANIMATION AND MULTIMEDIA			30		1
+-------------------------------------------------------------------------------
+TOTAL						120		270
+-------------------------------------------------------------------------------
+PERCENTAGE							180
+------------------------------------------------------------------------------
